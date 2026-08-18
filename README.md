@@ -2,7 +2,7 @@
 
 An interactive Excel dashboard analyzing one year of e-commerce gifting sales data for FNP (Ferns N Petals) — covering revenue trends, top-performing occasions, product categories, cities, and delivery performance.
 
-![Dashboard Preview](fnp_dashboard.png)
+![Dashboard Preview](screenshots/fnp_dashboard.png)
 
 ## Overview
 
